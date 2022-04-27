@@ -2325,3 +2325,10 @@ _:-ms-fullscreen, :root .glightbox-container .gdesc-inner .gslide-desc
     vertical-align: middle;
     display: inline-block;
 }
+
+.more-break {
+    margin-top: 2rem;
+}
+.more {
+    margin-top: 3rem;
+}
