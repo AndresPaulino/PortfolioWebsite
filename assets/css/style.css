@@ -2332,3 +2332,37 @@ _:-ms-fullscreen, :root .glightbox-container .gdesc-inner .gslide-desc
 .more {
     margin-top: 3rem;
 }
+
+.item {
+    margin-bottom: 2rem;
+    height: 20%;
+    width: 100%;
+    padding: 0;
+}
+
+.item__title {
+    margin-bottom: 3rem;
+}
+
+.item__image {
+    width: 100%;
+}
+
+.item__links {
+    display: flex;
+    margin-top: 3rem;
+}
+
+.item__link {
+    margin-right: 2rem;
+    font-size: 3rem;
+    border: 1px solid #7c7c7c;
+    border-radius: 10px;
+    padding: 1rem 4rem;
+    color: #7c7c7c;
+}
+
+.item__link:hover {
+    background-color: rgb(97, 97, 97);
+    border: 1px solid black;
+}
